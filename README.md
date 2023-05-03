@@ -14,9 +14,7 @@ Being architect that push me to learn various programs like
 
 Thank you for attention .
 
-</br>
-</br>
-</br>
+
 
 ## Good Developer Mindset ( summarized)
 Developers often experience horror stories due to small factors that slowly and gradually harm their projects. To avoid this, developers should embrace the fundamental laws of software and develop a mindset to make better decisions in their daily programming journey. there are 25 key points that every developer must know.
